@@ -16,5 +16,12 @@ output = if age < 10
 	 	   "Is he dead?"
 		 end
 
+#variable = age < 55 ? "young" : "old"
+
+#doSomething if condition == true		<=>		doSomething if condition
+	# "hi" if 5<8 - returns "hi"
+#doSomething unless condition == false	<=>		doSomething unless condition
+	# "hi" unless 5>8 - returns "hi"
+
 #3. output
 puts output
