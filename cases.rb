@@ -1,6 +1,6 @@
 #using case when - switch case statement
 
-puts "Tell me a car model: "
+print "Tell me a car model: "
 car_model = gets.strip #strip removes any sapces from the beginning and the end of string
 
 output = case car_model
@@ -10,4 +10,5 @@ output = case car_model
 			else "Unknown model"	#else is optional and is a sort of a backfall
 			end
 
-puts "The car company for #{car_model} is ", output
+print "The car company for #{car_model} is ", output
+puts
