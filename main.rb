@@ -11,3 +11,6 @@ input2 = gets
 
 puts "The result is:".green
 puts "#{add input1.to_i, input2.to_i}".green
+
+# DB credentials
+# root / root

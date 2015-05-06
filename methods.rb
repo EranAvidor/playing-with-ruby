@@ -12,7 +12,7 @@ class Post
 	#	@comments = comments	
 	#end
 
-	#Using 
+	#Using Hash
 	def initialize options
 		@author = options[:author]
 		@title = options[:title]
