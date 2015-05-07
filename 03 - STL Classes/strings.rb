@@ -1,6 +1,6 @@
-#Strings class
+#String class
 #handles text
-#string are objects in ruby (like anything!)
+#strings are objects in ruby (like anything!)
 #full documentation can be viewed in ruby-doc.org
 
 #shows the methods available for strings
