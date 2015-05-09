@@ -55,7 +55,7 @@ str 	#results in ""
 "Hello World!".delete "lo" #results in "He Wrd"
 
 #there are different ways to define strings
-#%q allows you to define strings where you can insert new lines with a little more elegance
+#%q{} allows you to define strings where you can insert new lines with a little more elegance
 str1 = %q{Multi line
 String with
 Several
